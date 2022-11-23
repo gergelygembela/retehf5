@@ -1274,7 +1274,7 @@ After adding the Generalization relation, add the redefining property to the chi
             <packagedElement xmi:type="uml:Abstraction" xmi:id="_gb0sQGqlEe2iMLh1BEw92g" client="_JM20oGqMEe2iMLh1BEw92g" supplier="_W7hU9F4TEe2PHtSqZU2vSg"/>
             <packagedElement xmi:type="uml:InformationFlow" xmi:id="_0JNgEGqpEe2iMLh1BEw92g" name="SpeedData2: CurrentSpeed" informationSource="_KUMIwGqPEe2iMLh1BEw92g" informationTarget="_qo_iUGqOEe2iMLh1BEw92g"/>
             <packagedElement xmi:type="uml:InformationFlow" xmi:id="_7e8XgGqpEe2iMLh1BEw92g" name="SpeedData1: CurrentSpeed" informationSource="_KUMIwGqPEe2iMLh1BEw92g" informationTarget="_qo_iUGqOEe2iMLh1BEw92g"/>
-            <packagedElement xmi:type="uml:InformationFlow" xmi:id="_VdztQGqqEe2iMLh1BEw92g" name="speedData: CurrentSpeed" informationSource="_KUMIwGqPEe2iMLh1BEw92g" informationTarget="_EuXOkF0vEe2uX917uzqZWA"/>
+            <packagedElement xmi:type="uml:InformationFlow" xmi:id="_VdztQGqqEe2iMLh1BEw92g" name="speedData: CurrentSpeed" informationSource="_KUMIwGqPEe2iMLh1BEw92g" informationTarget="_EuXOkF0vEe2uX917uzqZWA _zdcagGqOEe2iMLh1BEw92g"/>
           </packagedElement>
           <packagedElement xmi:type="uml:Association" xmi:id="_2p1zwGo7Ee2jCt-5ypOzag" memberEnd="_2p_kwGo7Ee2jCt-5ypOzag _2qAL0mo7Ee2jCt-5ypOzag">
             <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2p3o8Go7Ee2jCt-5ypOzag" source="org.eclipse.papyrus">
